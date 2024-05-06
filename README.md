@@ -1,6 +1,5 @@
 Abel Melquisedec Bermúdez Díaz 
 Número de carnet:2024-1669U
-Insertsort 
 
 <!---
 abelbermudez/abelbermudez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
